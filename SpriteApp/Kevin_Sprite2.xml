@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kevin_Sprite2.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.226 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Ball0000" x="0" y="0" width="97" height="92" pivotX="0" pivotY="0"/>
+	<SubTexture name="Colours0000" x="0" y="92" width="189" height="133" pivotX="0" pivotY="0"/>
+	<SubTexture name="Flowers0000" x="0" y="225" width="141" height="94" pivotX="0" pivotY="0"/>
+	<SubTexture name="Penguin0000" x="0" y="319" width="119" height="141" pivotX="0" pivotY="0"/>
+</TextureAtlas>
